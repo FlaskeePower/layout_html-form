@@ -1,1 +1,8 @@
 /* styles go here */
+label:not(:first-child) {
+  display: block;
+  margin-top: 20px;
+}
+.form-button {
+  margin-top: 20px;
+}
