@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,yBACE,aAAc,CACd,eACF,CAEA,aACE,eACF","file":"style.fc0a7abe.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\r\n.label:not(:first-child) {\r\n  display: block;\r\n  margin-top: 20px;\r\n}\r\n\r\n.form-button {\r\n  margin-top: 20px;\r\n}\r\n"]}
